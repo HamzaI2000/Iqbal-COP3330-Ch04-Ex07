@@ -1,5 +1,11 @@
-#include<iostream>
 
+/*
+ *  UCF COP3330 Fall 2021 Assignment 5 Solution
+ *  Copyright 2021 Hamza Iqbal
+ */
+
+
+#include<iostream>
 #include<cstring>
 
 using namespace std;
@@ -12,7 +18,7 @@ string spell[10]={"Zero","one","two","three","four","five","six","seven","eight"
 
 int digit;
 
-cout<<"Enter a onr digit number: ";
+cout<<"Enter a one digit number ONLY: ";
 
 cin>>digit;
 
